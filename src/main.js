@@ -5,6 +5,7 @@ import store from './store'
 import Vant from 'vant';
 import 'vant/lib/index.css';
 import 'normalize.css/normalize.css'
+import 'lib-flexible/flexible';
 
 Vue.use(Vant);
 
